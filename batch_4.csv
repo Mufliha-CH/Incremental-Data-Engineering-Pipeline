@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,amount,status,source_updated_at
+ORD1013,CUST12,2026-10-29,1200,Completed,2026-10-29 09:00:00
+ORD1003,CUST03,2026-10-22,2900,Completed,2026-10-30 09:00:00
+ORD1014,CUST13,2026-10-29,750,Pending,2026-10-29 10:00:00
+ORD1015,CUST14,2026-10-29,-100,Completed,2026-10-29 11:00:00
